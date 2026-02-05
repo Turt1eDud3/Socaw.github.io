@@ -7,7 +7,7 @@ This is a link to the [Google Drive Folder](https://drive.google.com/drive/folde
 
 # Upcoming Events - (2 Events)
 
-* February, 22 - 15:00
+* February, 22 - (15:00)
   KCC Concert Band Performance
 
 * February, 28 - (Unknown)
