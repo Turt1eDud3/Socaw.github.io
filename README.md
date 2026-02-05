@@ -1,4 +1,4 @@
-# Socially Awkward - Test
+# Socially Awkward
 Welcome to the offical website for the Socially Awkward Group Crew/members. 
 
 Here you can find videos that have been uploaded to the Socially Awkward Youtube Channell :)
