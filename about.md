@@ -6,4 +6,4 @@
 
 # About Us
 
-We are a group of friends who play games and have a good time. We record videos and make projects for others to enjoy. 
+We are a group of friends who play games and have a good time. We record videos and make projects for others to enjoy :)
