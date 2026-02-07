@@ -1,5 +1,5 @@
 <nav>
-  <a href="hello.md">Home</a>
+  <a href="README.md">Home</a>
   <a href="about.html">About</a>
   <a href="contact.html">Contact</a>
 </nav>
