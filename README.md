@@ -1,3 +1,8 @@
+<nav>
+  <a href="hello.md">Hello</a>
+  <a href="about.html">About</a>
+  <a href="contact.html">Contact</a>
+</nav>
 
 <img width="100%" height="100%" alt="Untitled design" src="https://github.com/user-attachments/assets/e33c17c1-3ba1-4f50-83cc-00f62a7e26a5" />
 
