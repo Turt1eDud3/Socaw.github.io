@@ -1,7 +1,7 @@
 <nav>
   <a href="README.md">Home</a>
   <a href="about.md">About</a>
-  <a href="contact.html">Contact</a>
+  <a href="https://youtube.com/@sociallyawkward-socaw?si=rwjFbd3v4fOzSwEz">Youtube</a>
 </nav>
 
 # Socially Awkward
