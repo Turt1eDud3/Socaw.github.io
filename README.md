@@ -11,8 +11,6 @@ Welcome to the offical website for the Socially Awkward Group Crew/members.
 
 Here you can find links to the Youtube Channel, projects we have made and other little things :)
 
-This is a link to the [Google Drive Folder](https://drive.google.com/drive/folders/1DymEwEe3HmQ0Xk5rJOchxcPaffUFIXmI?usp=sharing) that will have the videos :)
-
 # Creations
 Down below are links to different projects and creations that members have made that they are willing to share to the public. This includes Games, Music and other little things.
 
